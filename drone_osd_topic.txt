@@ -1,0 +1,446 @@
+thing/product/1581F5FHD237S00D180W/osd
+待机：
+{
+  "bid": "00000000-0000-0000-0000-000000000000",
+  "data": {
+    "66-0-0": {
+      "gimbal_pitch": 0,
+      "gimbal_roll": 0,
+      "gimbal_yaw": -72.5,
+      "payload_index": "66-0-0",
+      "zoom_factor": 0.56782334384858046
+    },
+    "activation_time": 1698260070,
+    "attitude_head": -72.6,
+    "attitude_pitch": 4.4,
+    "attitude_roll": 0.2,
+    "battery": {
+      "batteries": [
+        {
+          "capacity_percent": 24,
+          "firmware_version": "08.75.02.23",
+          "high_voltage_storage_days": 0,
+          "index": 0,
+          "loop_times": 10,
+          "sn": "4ERPLBQEA2KSCR",
+          "sub_type": 0,
+          "temperature": 39.2,
+          "type": 0,
+          "voltage": 14932
+        }
+      ],
+      "capacity_percent": 24,
+      "landing_power": 0,
+      "remain_flight_time": 0,
+      "return_home_power": 0
+    },
+    "cameras": [
+      {
+        "camera_mode": 0,
+        "liveview_world_region": {
+          "bottom": 0.54841738939285278,
+          "left": 0.431539535522461,
+          "right": 0.56274276971817,
+          "top": 0.41614934802055359
+        },
+        "payload_index": "66-0-0",
+        "photo_state": 0,
+        "record_time": 0,
+        "recording_state": 0,
+        "remain_photo_num": 5309,
+        "remain_record_duration": 0,
+        "wide_calibrate_farthest_focus_value": 26,
+        "wide_calibrate_nearest_focus_value": 75,
+        "wide_exposure_mode": 1,
+        "wide_exposure_value": 16,
+        "wide_focus_mode": 0,
+        "wide_focus_state": 0,
+        "wide_focus_value": 26,
+        "wide_iso": 5,
+        "wide_max_focus_value": 75,
+        "wide_min_focus_value": 26,
+        "wide_shutter_speed": 22,
+        "zoom_calibrate_farthest_focus_value": 26,
+        "zoom_calibrate_nearest_focus_value": 75,
+        "zoom_exposure_mode": 1,
+        "zoom_exposure_value": 16,
+        "zoom_factor": 7,
+        "zoom_focus_mode": 0,
+        "zoom_focus_state": 0,
+        "zoom_focus_value": 26,
+        "zoom_iso": 5,
+        "zoom_max_focus_value": 75,
+        "zoom_min_focus_value": 26,
+        "zoom_shutter_speed": 22
+      }
+    ],
+    "distance_limit_status": {
+      "distance_limit": 3000,
+      "is_near_distance_limit": 0,
+      "state": 1
+    },
+    "elevation": 0,
+    "exit_wayline_when_rc_lost": 0,
+    "firmware_version": "14.01.0002",
+    "gear": 1,
+    "height": 87.0712203979492,
+    "height_limit": 0,
+    "home_distance": 0,
+    "horizontal_speed": 0,
+    "is_near_height_limit": 0,
+    "latitude": 0,
+    "longitude": 0,
+    "maintain_status": {
+      "maintain_status_array": [
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 1,
+          "state": 0
+        },
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 2,
+          "state": 0
+        },
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 3,
+          "state": 0
+        }
+      ]
+    },
+    "mode_code": 0,
+    "night_lights_state": 0,
+    "obstacle_avoidance": {
+      "downside": 1,
+      "horizon": 1,
+      "upside": 0
+    },
+    "position_state": {
+      "gps_number": 0,
+      "is_fixed": 0,
+      "quality": 0,
+      "rtk_number": 0
+    },
+    "rc_lost_action": 2,
+    "rth_altitude": 200,
+    "storage": {
+      "total": 60082000,
+      "used": 5656000
+    },
+    "total_flight_distance": 404167.679246531,
+    "total_flight_sorties": 0,
+    "total_flight_time": 0,
+    "track_id": "",
+    "vertical_speed": 0,
+    "wind_direction": 0,
+    "wind_speed": 0
+  },
+  "tid": "00000000-0000-0000-0000-000000000000",
+  "timestamp": 1750673072960,
+  "gateway": "5YSZL7L0032SVP"
+}
+
+--------------------------------------------------------------------------------------
+飞行中：
+{
+  "bid": "00000000-0000-0000-0000-000000000000",
+  "data": {
+    "66-0-0": {
+      "gimbal_pitch": -56.3,
+      "gimbal_roll": 0,
+      "gimbal_yaw": -167.6,
+      "payload_index": "66-0-0",
+      "zoom_factor": 0.56782334384858046
+    },
+    "activation_time": 1698260070,
+    "attitude_head": -168.6,
+    "attitude_pitch": 2.7,
+    "attitude_roll": -3.7,
+    "battery": {
+      "batteries": [
+        {
+          "capacity_percent": 47,
+          "firmware_version": "08.75.02.23",
+          "high_voltage_storage_days": 0,
+          "index": 0,
+          "loop_times": 16,
+          "sn": "4ERKL5W6G30C45",
+          "sub_type": 0,
+          "temperature": 45,
+          "type": 0,
+          "voltage": 15011
+        }
+      ],
+      "capacity_percent": 47,
+      "landing_power": 8,
+      "remain_flight_time": 812,
+      "return_home_power": 15
+    },
+    "cameras": [
+      {
+        "camera_mode": 0,
+        "liveview_world_region": {
+          "bottom": 0.54841738939285278,
+          "left": 0.431539535522461,
+          "right": 0.56274276971817,
+          "top": 0.41614934802055359
+        },
+        "payload_index": "66-0-0",
+        "photo_state": 0,
+        "record_time": 0,
+        "recording_state": 0,
+        "remain_photo_num": 5307,
+        "remain_record_duration": 0,
+        "wide_calibrate_farthest_focus_value": 25,
+        "wide_calibrate_nearest_focus_value": 74,
+        "wide_exposure_mode": 1,
+        "wide_exposure_value": 16,
+        "wide_focus_mode": 0,
+        "wide_focus_state": 0,
+        "wide_focus_value": 27,
+        "wide_iso": 3,
+        "wide_max_focus_value": 74,
+        "wide_min_focus_value": 25,
+        "wide_shutter_speed": 9,
+        "zoom_calibrate_farthest_focus_value": 25,
+        "zoom_calibrate_nearest_focus_value": 74,
+        "zoom_exposure_mode": 1,
+        "zoom_exposure_value": 16,
+        "zoom_factor": 7,
+        "zoom_focus_mode": 0,
+        "zoom_focus_state": 0,
+        "zoom_focus_value": 27,
+        "zoom_iso": 3,
+        "zoom_max_focus_value": 74,
+        "zoom_min_focus_value": 25,
+        "zoom_shutter_speed": 9
+      }
+    ],
+    "distance_limit_status": {
+      "distance_limit": 3000,
+      "is_near_distance_limit": 0,
+      "state": 1
+    },
+    "elevation": 14.9,
+    "exit_wayline_when_rc_lost": 0,
+    "firmware_version": "14.01.0002",
+    "gear": 1,
+    "height": 50.5033821105957,
+    "height_limit": 1500,
+    "home_distance": 13.316973686218262,
+    "horizontal_speed": 0,
+    "is_near_height_limit": 0,
+    "latitude": 22.351736886485227,
+    "longitude": 113.57638654816412,
+    "maintain_status": {
+      "maintain_status_array": [
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 1,
+          "state": 0
+        },
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 2,
+          "state": 0
+        },
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 3,
+          "state": 0
+        }
+      ]
+    },
+    "mode_code": 3,
+    "night_lights_state": 0,
+    "obstacle_avoidance": {
+      "downside": 1,
+      "horizon": 1,
+      "upside": 0
+    },
+    "position_state": {
+      "gps_number": 29,
+      "is_fixed": 0,
+      "quality": 5,
+      "rtk_number": 0
+    },
+    "rc_lost_action": 2,
+    "rth_altitude": 200,
+    "storage": {
+      "total": 60082000,
+      "used": 5677000
+    },
+    "total_flight_distance": 404274.27704548952,
+    "total_flight_sorties": 99,
+    "total_flight_time": 58475.398692972958,
+    "track_id": "",
+    "vertical_speed": 0,
+    "wind_direction": 2,
+    "wind_speed": 23
+  },
+  "tid": "00000000-0000-0000-0000-000000000000",
+  "timestamp": 1751447061235,
+  "gateway": "5YSZL7L0032SVP"
+}
+
+-----------------------------------------------------------------------------
+高度变化：
+{
+  "bid": "00000000-0000-0000-0000-000000000000",
+  "data": {
+    "66-0-0": {
+      "gimbal_pitch": 0,
+      "gimbal_roll": 0,
+      "gimbal_yaw": -166.9,
+      "payload_index": "66-0-0",
+      "zoom_factor": 0.56782334384858046
+    },
+    "activation_time": 1698260070,
+    "attitude_head": -167.9,
+    "attitude_pitch": 4.1,
+    "attitude_roll": -0.1,
+    "battery": {
+      "batteries": [
+        {
+          "capacity_percent": 46,
+          "firmware_version": "08.75.02.23",
+          "high_voltage_storage_days": 0,
+          "index": 0,
+          "loop_times": 16,
+          "sn": "4ERKL5W6G30C45",
+          "sub_type": 0,
+          "temperature": 45.5,
+          "type": 0,
+          "voltage": 15038
+        }
+      ],
+      "capacity_percent": 46,
+      "landing_power": 8,
+      "remain_flight_time": 891,
+      "return_home_power": 16
+    },
+    "cameras": [
+      {
+        "camera_mode": 0,
+        "liveview_world_region": {
+          "bottom": 0.54841738939285278,
+          "left": 0.431539535522461,
+          "right": 0.56274276971817,
+          "top": 0.41614934802055359
+        },
+        "payload_index": "66-0-0",
+        "photo_state": 0,
+        "record_time": 0,
+        "recording_state": 0,
+        "remain_photo_num": 5307,
+        "remain_record_duration": 0,
+        "wide_calibrate_farthest_focus_value": 25,
+        "wide_calibrate_nearest_focus_value": 74,
+        "wide_exposure_mode": 1,
+        "wide_exposure_value": 16,
+        "wide_focus_mode": 0,
+        "wide_focus_state": 0,
+        "wide_focus_value": 27,
+        "wide_iso": 3,
+        "wide_max_focus_value": 74,
+        "wide_min_focus_value": 25,
+        "wide_shutter_speed": 13,
+        "zoom_calibrate_farthest_focus_value": 25,
+        "zoom_calibrate_nearest_focus_value": 74,
+        "zoom_exposure_mode": 1,
+        "zoom_exposure_value": 16,
+        "zoom_factor": 7,
+        "zoom_focus_mode": 0,
+        "zoom_focus_state": 0,
+        "zoom_focus_value": 27,
+        "zoom_iso": 3,
+        "zoom_max_focus_value": 74,
+        "zoom_min_focus_value": 25,
+        "zoom_shutter_speed": 13
+      }
+    ],
+    "distance_limit_status": {
+      "distance_limit": 3000,
+      "is_near_distance_limit": 0,
+      "state": 1
+    },
+    "elevation": 0.2,
+    "exit_wayline_when_rc_lost": 0,
+    "firmware_version": "14.01.0002",
+    "gear": 1,
+    "height": 35.8033821105957,
+    "height_limit": 1500,
+    "home_distance": 5.56077766418457,
+    "horizontal_speed": 0,
+    "is_near_height_limit": 0,
+    "latitude": 22.35181283748328,
+    "longitude": 113.57639944565962,
+    "maintain_status": {
+      "maintain_status_array": [
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 1,
+          "state": 0
+        },
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 2,
+          "state": 0
+        },
+        {
+          "last_maintain_flight_sorties": 0,
+          "last_maintain_flight_time": 0,
+          "last_maintain_time": 0,
+          "last_maintain_type": 3,
+          "state": 0
+        }
+      ]
+    },
+    "mode_code": 11,
+    "night_lights_state": 0,
+    "obstacle_avoidance": {
+      "downside": 1,
+      "horizon": 1,
+      "upside": 0
+    },
+    "position_state": {
+      "gps_number": 23,
+      "is_fixed": 0,
+      "quality": 5,
+      "rtk_number": 0
+    },
+    "rc_lost_action": 2,
+    "rth_altitude": 200,
+    "storage": {
+      "total": 60082000,
+      "used": 5677000
+    },
+    "total_flight_distance": 404293.442747666,
+    "total_flight_sorties": 99,
+    "total_flight_time": 58492.358692593873,
+    "track_id": "",
+    "vertical_speed": 0,
+    "wind_direction": 1,
+    "wind_speed": 26
+  },
+  "tid": "00000000-0000-0000-0000-000000000000",
+  "timestamp": 1751447079234,
+  "gateway": "5YSZL7L0032SVP"
+}
